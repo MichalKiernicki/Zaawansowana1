@@ -1,4 +1,4 @@
-package abstraction;
+package abstractionAndPolymorphism;
 
 public class Fish extends Animal{
     @Override

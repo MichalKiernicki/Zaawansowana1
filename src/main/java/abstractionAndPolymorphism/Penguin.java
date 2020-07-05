@@ -1,4 +1,4 @@
-package abstraction;
+package abstractionAndPolymorphism;
 
 public class Penguin extends Bird{
 

@@ -1,4 +1,4 @@
-package abstraction;
+package abstractionAndPolymorphism;
 
 public abstract class Animal {
     private String name;
