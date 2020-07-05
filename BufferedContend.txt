@@ -1,0 +1,2 @@
+Buffered line 1
+Buffered line 2
