@@ -6,6 +6,7 @@ public class CarMain {
         TruckCar truckCar = new TruckCar(500);
         truckCar.setName("MAN");
         truckCar.setColor("CZarny");
+        System.out.println("Moje firmowe auto to " + truckCar.getName() + " w kolorze " + truckCar.getColor());
 
         FerrariCar ferrariCar = new FerrariCar(3,300,"B12");
         ferrariCar.setName("Ferrari");
