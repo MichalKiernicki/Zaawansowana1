@@ -1,4 +1,4 @@
-package Basics.extanding;
+package extanding;
 
 public class CarMain {
     public static void main(String[] args) {
@@ -10,8 +10,11 @@ public class CarMain {
 
         FerrariCar ferrariCar = new FerrariCar(3,300,"B12");
         ferrariCar.setName("Ferrari");
+        ferrariCar.setColor("Blue");
         System.out.println("\nMoja fura to " + ferrariCar.getName() + " " + ferrariCar.getModelName() +
                 " w kolorze "+ ferrariCar.getColor() + ". Przeyśpiesza w " + ferrariCar.getAccelerationTo100() +
                 "s do 100km/h i jege prędkość max to " + ferrariCar.getTopSpeed() + "km/h");
+
+        System.out.println(ferrariCar.getModelName() + " " + ferrariCar.getOriginalColor());
     }
 }

@@ -1,4 +1,4 @@
-package Basics.extanding;
+package extanding;
 
 public class Car {
     private String name;

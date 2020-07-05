@@ -1,4 +1,4 @@
-package Basics.extanding;
+package extanding;
 
 public class FerrariCar extends SportCar {
 
@@ -16,5 +16,9 @@ public class FerrariCar extends SportCar {
     @Override// nadpisywanie metody z innej klasy dla tej klasy
     public String getColor() {
         return "RED";
+    }
+
+    public String getOriginalColor() {
+        return super.getColor();
     }
 }

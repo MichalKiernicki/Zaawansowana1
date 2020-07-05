@@ -1,4 +1,4 @@
-//Create a simple String calculator with a method signature:
+package Basics;//Create a simple String calculator with a method signature:
 //        ———————————————
 //        int Add(string numbers)
 //        ———————————————
