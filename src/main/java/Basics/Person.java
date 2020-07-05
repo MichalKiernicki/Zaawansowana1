@@ -18,6 +18,10 @@ public class Person {
         this.surname = surname;
         this.age = age;
     }
+
+    public Person(String name, String surname, int age, Address address) {
+    }
+
     public String getName() {
         return name;
     }
