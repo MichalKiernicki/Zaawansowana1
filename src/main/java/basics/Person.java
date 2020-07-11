@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 public class Person {
     private String name;

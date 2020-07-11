@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 public class Calculator {
     public double add(double a, double b) {

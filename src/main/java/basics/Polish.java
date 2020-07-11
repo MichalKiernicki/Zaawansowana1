@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 //dziedziczenie przez słowo kluczowe extends
 public class Polish extends Person{
 
