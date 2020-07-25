@@ -1,0 +1,14 @@
+rozroznienie car/ship/plane
+name
+
+//C|name|kind
+C|P|Volvo v50|personal
+C|T|MAN TGX 18.440|truck
+
+//S|name|oceanic
+S|P|Titanic|1
+S|T|...|0
+
+//P|name|engine
+P|P|Airbus 380|turbo
+P|P|Concorde|jet

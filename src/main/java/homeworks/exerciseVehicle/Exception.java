@@ -1,4 +1,4 @@
-package exerciseVehicle;
+package homeworks.exerciseVehicle;
 
 public class Exception extends IllegalArgumentException{
     public Exception(String message) {

@@ -39,9 +39,8 @@ public class ComparingTest {
         }
         System.out.println("\nDrukujemy posortowane wg prędkości i silnika");
 
-        Car car5 = new Car("Volvo", "Gasoline", 180);
         Car car6 = new Car("Ford", "Gasoline + gas", 190);
-        carList.add(car5);
+        carList.add(new Car("Volvo", "Gasoline", 180)); //dodawanie do listy i tworzenie nowego obiektu w jednym zapisie
         carList.add(car6);
         Collections.sort(carList, new CarComparedBySpeedAndEngine());
 
