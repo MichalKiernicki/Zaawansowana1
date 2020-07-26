@@ -1,0 +1,18 @@
+Ctrl + K           --> tworzenie commit
+Ctrl + Shift + K   --> push commit na gita
+Ctrl + Y           --> usuwanie linijki w której piszemy
+Ctrl + D           --> kopiowanie linijki w której aktualnie piszemy
+Ctrl + Alt + M     --> gdy mamy zaznaczony kawałek kodu można z niego stworzyć metodę
+Shift + F6         --> Zmiana nazwy w każdym użytym miejscu
+Ctrl + Scroll      --> zoom
+Alt + Insert       --> szybkie tworzenie getterów i setterów lub konstruktora
+VCS->Git->Clone    --> tu wklejamy link z gita i podajemy miejsce docelowe zapisu
+Ctrl + LMB         --> sprawdzanie gdzie jest wykorzystana metoda, obiekt
+Alt + 1            --> przejście między drzewkiem projektu a oknem
+Alt + Instert      --> jak jesteśmy na drzewku projektu to można szybko dodać nowy plik lub klasę
+Ctrl + Alt + L     --> formatowanie kodu
+Ctrl + Spacja      --> uzupełnianie tekstu
+Ctrl + Alt + T     --> otoczenie kodu jakąś funkcją
+Ctrl + N           --> znajdż klasę
+//TODO             --> komentarz do zrobienia który można sprawdzać przy commicie
+//FIXME            --> komentarz napraw mnie
