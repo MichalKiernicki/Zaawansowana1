@@ -148,7 +148,7 @@ public class StreamExamples {
         System.out.println("===Sortowanie w strumieniu===");
         Stream.of(people, peopleset)
                 .flatMap(x -> x.stream())
-                .sorted() // używamy komparatora z klasy Human z Cimparable
+                .sorted() // używamy komparatora z klasy Human z Comparable
                 .collect(Collectors.toList())
                 .forEach(System.out::println);
 

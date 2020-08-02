@@ -14,5 +14,9 @@ Ctrl + Alt + L     --> formatowanie kodu
 Ctrl + Spacja      --> uzupełnianie tekstu
 Ctrl + Alt + T     --> otoczenie kodu jakąś funkcją
 Ctrl + N           --> znajdż klasę
+Ctrl + Shift + /   --> wielolinijkowy komentarz
+
+
+
 //TODO             --> komentarz do zrobienia który można sprawdzać przy commicie
 //FIXME            --> komentarz napraw mnie
